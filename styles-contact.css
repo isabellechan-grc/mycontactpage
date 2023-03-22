@@ -72,7 +72,7 @@ html, body {
 }
 
 .center {
-    width: 800px;
+    width: 50%;
 	padding: 2%;
     margin: 100px auto;
  	background: #F5E8D1; /*this uses opacity of 75% for the background color*/
